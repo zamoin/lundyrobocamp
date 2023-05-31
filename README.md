@@ -1,6 +1,6 @@
 # Lundy Robo Camp
 
-<img src="./images/makeblock.png">
+<img src="./images/makeblock.png" width="50%">
 
 ## Overview
 
