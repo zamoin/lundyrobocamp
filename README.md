@@ -2,6 +2,10 @@
 
 <img src="./images/makeblock.png" width="50%">
 
+## Session Details
+
+2023 Summer Session - 06/12 - 06/16 - [Registration](https://docs.google.com/forms/d/1SR2LRPSzKvrcT5JqMqXWO4ZTTd2dvA5ikyGO37IflTY/)
+
 ## Overview
 
 
