@@ -13,7 +13,7 @@ This repository hosts the code and logistics for Lundy Robo Camp for summer of 2
 
 
 ## How it works
-Coming soon
+The Robo Kit has all the materials needed, such as screws, the chassis, the computer, and wheels and motors. After following the intructions to assemble to robot, you can download the MakeBlock app to code your robot. MakeBlock follows simple drag and drop code, and the kit comes with cards giving examples of what you can create and the code that comes with it. Once you have made your program, you can test it by running it live or uploading your code onto the mBot computer.
 
 
 ## Where to Buy Robo Kit
