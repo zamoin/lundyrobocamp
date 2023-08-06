@@ -27,7 +27,9 @@ This site has all instructions and materials needed.
 
 ## Summer Session - 2023
 2023 Summer Session - 06/12 - 06/16 - [Pictures](https://photos.app.goo.gl/BYXNAVWyunNAhnzD9)
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=PL6_LGlA3QhUJLLQfugZpc6JbzRSXwp8Hp" target="_blank">
- <img src="http://img.youtube.com/vi/PL6_LGlA3QhUJLLQfugZpc6JbzRSXwp8Hp/mqdefault.jpg" alt="Watch the video" width="480" height="360" border="10" />
+
+https://youtu.be/sVgtK4A5UeE
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=sVgtK4A5UeE" target="_blank">
+ <img src="http://img.youtube.com/vi/sVgtK4A5UeE/mqdefault.jpg" alt="Watch the video" width="480" height="360" border="10" />
 </a>
 
