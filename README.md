@@ -22,14 +22,8 @@ This site has all instructions and materials needed.
 
 ## Contributors
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+[Zohran](https://github.com/zamoin)
+[Hasan](https://github.com/h-baqai)
 
 
 ## Summer Session - 2023
