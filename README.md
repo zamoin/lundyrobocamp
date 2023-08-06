@@ -22,3 +22,6 @@ This site has all instructions and materials needed.
 
 ## Help
 Coming soon
+
+## Summer Session - 2023
+2023 Summer Session - 06/12 - 06/16 - [Pictures](https://photos.app.goo.gl/BYXNAVWyunNAhnzD9)
