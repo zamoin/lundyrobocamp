@@ -20,8 +20,17 @@ The Robo Kit has all the materials needed, such as screws, the chassis, the comp
 [Amazon](https://www.amazon.com/Makeblock-Mechanical-Entry-Level-Programming-Creativity/dp/B00SK5RUQY)
 This site has all instructions and materials needed.
 
-## Help
-Coming soon
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 
 ## Summer Session - 2023
 2023 Summer Session - 06/12 - 06/16 - [Pictures](https://photos.app.goo.gl/BYXNAVWyunNAhnzD9)
