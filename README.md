@@ -21,9 +21,8 @@ The Robo Kit has all the materials needed, such as screws, the chassis, the comp
 This site has all instructions and materials needed.
 
 ## Contributors
-
-[Zohran](https://github.com/zamoin)
-[Hasan](https://github.com/h-baqai)
+- [Zohran](https://github.com/zamoin)
+- [Hasan](https://github.com/h-baqai)
 
 
 ## Summer Session - 2023
